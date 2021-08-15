@@ -14,7 +14,7 @@ mystique/**/*.html
 
 dist/
 MANIFEST
-doc/_build/
+doc/build/
 doc/auto_examples/
 doc/modules/generated/
 doc/datasets/generated/
